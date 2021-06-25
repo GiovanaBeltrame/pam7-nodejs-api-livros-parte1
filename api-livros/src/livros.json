@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "titulo": "Ateneu",
+        "descrição": "Um colégio onde só tem meninos, em pleno Brasil no século XIX, clássico da literatura Brasileira.",
+        "autor": "Raul Pompeia",
+        "anoPublicacao": 1888
+    },
+    {
+        "id": 2,
+        "titulo": "Triste Fim de Policarpo Quaresma",
+        "descrição": "Clássico da literatura Brasileira, que vai contar sobre um apaixonado pelo Brasil.",
+        "autor": "Lima Barreto",
+        "anoPublicacao": 1915
+    },
+    {
+        "id": 3,
+        "titulo": "Quincas Borba",
+        "descrição": "Clássico da literatura Brasileira, Filosofia Humanitista e Rubião ficando rico da noite pro dia.",
+        "autor": "Machado de Assis",
+        "anoPublicacao": 1891
+    }
+]
